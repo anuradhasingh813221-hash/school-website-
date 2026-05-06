@@ -3,7 +3,7 @@
 <!--
   ============================================================
   MOUNT LITERA ZEE SCHOOL (MLZS), BHAGALPUR &#8212; PREMIUM BLOGGER THEME
-  Version: 2.1 - FIXED FOR PAGES
+  Version: 2.2 - FIXED XML ENTITY ERROR
   Design: Mobile-First | Dark Blue + White + Yellow
   CBSE Affiliation No.: 330715
   School Est.: 2015 | Balaji Education Trust
@@ -873,7 +873,7 @@ button { border: none; cursor: pointer; font-family: var(--font-body); }
       <div class='footer-divider'></div>
 
       <div class='footer-bottom'>
-        <p>&copy; 2024 Mount Litera Zee School. All Rights Reserved.</p>
+        <p>&#169; 2024 Mount Litera Zee School. All Rights Reserved.</p>
         <p>Designed with <i class='fas fa-heart' style='color: var(--gold);'></i> for Educational Excellence</p>
       </div>
     </div>
